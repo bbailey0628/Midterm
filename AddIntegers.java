@@ -1,10 +1,10 @@
 public class AddIntegers {
 
-    // Proof I made another change to the file - Brandon Bailey
+    // Proof I made a final change to the file - Brandon Bailey
     public static void main(String[] args) {
 
-        int first = 12;
-        int second = 23;
+        int first = 13;
+        int second = 27;
 
         System.out.println("Enter two numbers: " + first + " " + second);
         int sum = first + second;
